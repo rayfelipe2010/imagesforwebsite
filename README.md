@@ -5,3 +5,4 @@ Welcome to Gboard clipboard, any text you copy will be saved here.Use the edit i
 
 https://tinyurl.com/mta37bcr
 https://bit.ly/4gKSfdI
+https://bit.ly/3VdRuTd
